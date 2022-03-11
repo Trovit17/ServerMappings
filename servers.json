@@ -1706,5 +1706,11 @@
 	"addresses": [
 	    "lovymc.com"
 	]
+    },
+    {
+        "id": "cadia",
+	"name": "Cadia Network",
+	"addresses": [
+	    "cadiamc.net"
     }
 ]
