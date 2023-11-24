@@ -1,0 +1,38 @@
+{
+  "id": "saifed",
+  "name": "Saifed Network",
+  "description": "We're a competitive pvp &  minigames 1.7 - 1.20 network",
+  "addresses": [
+    "saifed.net",
+  ],
+  "primaryAddress": "saifed.net",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#00F0FF",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+      "PvP",
+      "Minigames",
+      "Prison",
+      "Survival",    
+  ],
+  "website": "https://saifed.net",
+  "store": "https://store.saifed.net"
+}
